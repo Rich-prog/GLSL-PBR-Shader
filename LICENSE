@@ -2,6 +2,26 @@ Creative Commons Legal Code
 
 CC0 1.0 Universal
 
+This project contains both original code by the project contributors and code copied from "Graphics 2 Lecture Notes" by Dr. Lance Putnam, Computing, Goldsmiths, University of London, March 18, 2025.
+
+-------------------------------------------------------------------------------
+
+ORIGINAL CODE
+
+All original code in this repository, except where otherwise noted, is released under the terms of the Creative Commons CC0 1.0 Universal Public Domain Dedication. You may copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission.
+
+For the full legal text, see below.
+
+-------------------------------------------------------------------------------
+
+THIRD-PARTY CODE
+
+The file `lighting.glsl` contains code copied from "Graphics 2 Lecture Notes" by Dr. Lance Putnam and is used with permission. This file is NOT covered by the CC0 license and may not be redistributed or reused without the consent of Dr. Lance Putnam.
+
+-------------------------------------------------------------------------------
+
+CC0 1.0 Universal
+
     CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
     LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
     ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS

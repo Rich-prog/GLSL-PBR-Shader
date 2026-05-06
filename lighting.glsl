@@ -1,5 +1,9 @@
 #version 150
 
+// This file contains code copied from "Graphics 2 Lecture Notes" by Dr. Lance Putnam,
+// Computing, Goldsmiths, University of London, March 18, 2025.
+// Used with permission. Not licensed for redistribution or reuse without consent.
+
 // A point light with attenuation and ambient component
 struct Light {
     vec3 pos;
