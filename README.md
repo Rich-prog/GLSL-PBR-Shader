@@ -23,7 +23,7 @@ The fragment shader computes the final color of each pixel based on the PBR ligh
 - Handles gamma correction to ensure that the rendered colors appear correctly on different display devices.
 - Provides options for enabling or disabling certain PBR features, such as normal mapping or ambient occlusion, to allow for performance optimizations based on the specific use case.
 
-- ## Lighting Model ("lighting.glsl")
+- ## Lighting Model (`lighting.glsl`)
 - The lighting model is implemented in a separate GLSL file, "lighting.glsl", which contains functions for calculating the various components of the PBR lighting model. This modular approach allows for easier maintenance and reuse of the lighting calculations across different shaders or projects. The lighting model includes functions for:
 - Calculating the Fresnel effect, which determines how much light is reflected versus refracted based on the viewing angle and material properties.
 - Computing the normal distribution function (NDF), which describes how microfacets are distributed on the surface and affects the sharpness of reflections.
